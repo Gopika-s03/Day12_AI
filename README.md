@@ -43,8 +43,8 @@ The notebook includes:
 Project-Improvement/
 │
 └── Student_Score_Analysis.ipynb
-`**``
-OUTPUT**
+
+**OUTPUT**
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a8e6def0-a24c-41e3-9f2d-70fe8a72541e" />
 
 
